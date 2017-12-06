@@ -1,3 +1,5 @@
+This is a fork of [gotrade](https://github.com/thetruetrade/gotrade)
+
 # gotrade
 
 Golang stock market technical analysis library
