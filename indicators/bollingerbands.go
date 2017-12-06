@@ -2,7 +2,7 @@ package indicators
 
 import (
 	"errors"
-	"github.com/thetruetrade/gotrade"
+	"github.com/jaybutera/gotrade"
 )
 
 // A Bollinger Band Indicator (BollingerBand), no storage, for use in other indicators

@@ -3,8 +3,8 @@ package indicators_test
 import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
-	"github.com/thetruetrade/gotrade"
-	"github.com/thetruetrade/gotrade/indicators"
+	"github.com/jaybutera/gotrade"
+	"github.com/jaybutera/gotrade/indicators"
 )
 
 var _ = Describe("when executing the gotrade simple moving average with a years data and known output", func() {

@@ -1,7 +1,7 @@
 package feeds
 
 import (
-	"github.com/thetruetrade/gotrade"
+	"github.com/jaybutera/gotrade"
 	"strconv"
 	"time"
 )

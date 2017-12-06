@@ -4,7 +4,7 @@ package indicators
 
 import (
 	"errors"
-	"github.com/thetruetrade/gotrade"
+	"github.com/jaybutera/gotrade"
 )
 
 // A Tripple Exponential Moving Average Indicator (Tema), no storage, for use in other indicators

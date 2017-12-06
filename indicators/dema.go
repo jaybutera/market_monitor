@@ -4,7 +4,7 @@ package indicators
 
 import (
 	"errors"
-	"github.com/thetruetrade/gotrade"
+	"github.com/jaybutera/gotrade"
 )
 
 // A Double Exponential Moving Average Indicator (Dema), no storage, for use in other indicators

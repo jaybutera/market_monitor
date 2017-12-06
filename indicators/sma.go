@@ -4,7 +4,7 @@ package indicators
 import (
 	"container/list"
 	"errors"
-	"github.com/thetruetrade/gotrade"
+	"github.com/jaybutera/gotrade"
 )
 
 // A Simple Moving Average Indicator (Sma), no storage, for use in other indicators

@@ -3,7 +3,7 @@ package indicators
 import (
 	"container/list"
 	"errors"
-	"github.com/thetruetrade/gotrade"
+	"github.com/jaybutera/gotrade"
 )
 
 // An Average Directional Index Rating (Adxr), no storage

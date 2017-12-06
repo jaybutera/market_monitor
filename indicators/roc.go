@@ -3,7 +3,7 @@ package indicators
 import (
 	"container/list"
 	"errors"
-	"github.com/thetruetrade/gotrade"
+	"github.com/jaybutera/gotrade"
 )
 
 // A Rate of Change Indicator (Roc), no storage, for use in other indicators

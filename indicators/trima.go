@@ -2,7 +2,7 @@ package indicators
 
 import (
 	"errors"
-	"github.com/thetruetrade/gotrade"
+	"github.com/jaybutera/gotrade"
 )
 
 // A Triangular Moving Average Indicator (Trima), no storage, for use in other indicators

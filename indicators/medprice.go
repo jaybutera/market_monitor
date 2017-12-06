@@ -1,7 +1,7 @@
 package indicators
 
 import (
-	"github.com/thetruetrade/gotrade"
+	"github.com/jaybutera/gotrade"
 )
 
 // A Median Price Indicator (MedPrice), no storage, for use in other indicators

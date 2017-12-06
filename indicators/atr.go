@@ -2,7 +2,7 @@ package indicators
 
 import (
 	"errors"
-	"github.com/thetruetrade/gotrade"
+	"github.com/jaybutera/gotrade"
 )
 
 // An Average True Range Indicator (Atr), no storage, for use in other indicators

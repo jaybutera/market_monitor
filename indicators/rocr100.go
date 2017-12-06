@@ -3,7 +3,7 @@ package indicators
 import (
 	"container/list"
 	"errors"
-	"github.com/thetruetrade/gotrade"
+	"github.com/jaybutera/gotrade"
 )
 
 // A Rate of Change Ratio 100 Scale Indicator (RocR100), no storage, for use in other indicators

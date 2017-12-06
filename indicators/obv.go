@@ -1,7 +1,7 @@
 package indicators
 
 import (
-	"github.com/thetruetrade/gotrade"
+	"github.com/jaybutera/gotrade"
 )
 
 // An On Balance Volume Indicator (Obv), no storage, for use in other indicators

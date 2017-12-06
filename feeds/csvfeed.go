@@ -2,7 +2,7 @@ package feeds
 
 import (
 	"encoding/csv"
-	"github.com/thetruetrade/gotrade"
+	"github.com/jaybutera/gotrade"
 	"io"
 	"os"
 )

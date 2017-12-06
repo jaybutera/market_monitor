@@ -1,7 +1,7 @@
 package indicators
 
 import (
-	"github.com/thetruetrade/gotrade"
+	"github.com/jaybutera/gotrade"
 )
 
 type TypPriceWithoutStorage struct {

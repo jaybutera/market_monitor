@@ -1,5 +1,5 @@
 /*
-	import "github.com/thetruetrade/gotrade"
+	import "github.com/jaybutera/gotrade"
 
 	Package indicators provides a range of technical trading indicators.
 	All indicators follow the basic structure of:
@@ -29,7 +29,7 @@ package indicators
 
 import (
 	"errors"
-	"github.com/thetruetrade/gotrade"
+	"github.com/jaybutera/gotrade"
 	"math"
 )
 

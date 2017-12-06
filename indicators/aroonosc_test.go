@@ -3,7 +3,7 @@ package indicators_test
 import (
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
-	"github.com/thetruetrade/gotrade/indicators"
+	"github.com/jaybutera/gotrade/indicators"
 )
 
 var _ = Describe("when creating an aroonoscwithoutstorage", func() {
